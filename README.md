@@ -6,13 +6,13 @@ GitHub repository for students studying on department of [Software Engineering a
 <img src="https://piitu-asu.kh.ua/images/semit-logo_usa.png" alt="SEMIT logo" width="300"/>
 
 Quick traslation into Russian:
-* Data Security Basics - Основы Безопасности Данных
-* Data Structures - Структуры данных
-* Databases - Базы данных
-* History of science and technology - История науки и техники
-* Numerical Methods - Численные Методы
-* Object-Oriented Programming - Объектно-ориентированное программирование
-* Occupational Safety Basics - Основы безопасности труда
-* Operations Research - Исследование операций
-* Software Testing - Тестирование программного обеспечения
-* Сomplex Systems - Сложные системы
+* Data Security Basics - [Основы Безопасности Данных](Data%20Security%20Basics)
+* Data Structures - [Структуры данных](Data%20Structures)
+* Databases - [Базы данных](Databases)
+* History of science and technology - [История науки и техники](History%20of%20science%20and%20technology)
+* Numerical Methods - [Численные Методы](Numerical%20Methods)
+* Object-Oriented Programming - [Объектно-ориентированное программирование](Object-Oriented%20Programming)
+* Occupational Safety Basics - [Основы безопасности труда](Occupational%20Safety%20Basics)
+* Operations Research - [Исследование операций](Operations%20Research)
+* Software Testing - [Тестирование программного обеспечения](Software%20Testing)
+* Сomplex Systems - [Сложные системы](Сomplex%20Systems)
