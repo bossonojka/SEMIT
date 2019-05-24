@@ -14,5 +14,3 @@ Quick traslation into Russian:
 * Operations Research - Исследование операций
 * Software Testing - Тестирование программного обеспечения
 * Сomplex Systems - Сложные системы
-
-<img src="https://media.giphy.com/media/Q9ApHCVWhPDVfp9RoB/giphy.gif" alt="Linux" width="50"/>
