@@ -5,7 +5,7 @@ GitHub repository for students studying on department of [Software Engineering a
 
 <img src="https://piitu-asu.kh.ua/images/semit-logo_usa.png" alt="SEMIT logo" width="300"/>
 
-Quick traslation into Russian:
+Quick access:
 * Data Security Basics - [Основы Безопасности Данных](Data%20Security%20Basics)
 * Data Structures - [Структуры данных](Data%20Structures)
 * Databases - [Базы данных](Databases)
