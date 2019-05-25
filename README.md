@@ -28,3 +28,4 @@ Quick access:
 * Web Technologies Basics - [Основы веб-технологий](Web%20Technologies%20Basics)
 * Software Testing - [Тестирование программного обеспечения](Software%20Testing)
 * Сomplex Systems - [Сложные системы](Сomplex%20Systems)
+# ПРОГРАММНАЯ ИНЖЕНЕРИЯ И ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ УПРАВЛЕНИЯ
