@@ -29,4 +29,4 @@ Quick access:
 * Software Testing - [Тестирование программного обеспечения](Software%20Testing)
 * Сomplex Systems - [Сложные системы](Сomplex%20Systems)
 
-# <p align="center"><a href="https://piitu-asu.kh.ua">КАФЕДРА ПРОГРАММНОЙ ИНЖЕНЕРИИ И ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ УПРАВЛЕНИЯ</a></p>
+<h4 align="center"><a href="https://piitu-asu.kh.ua">КАФЕДРА ПРОГРАММНОЙ ИНЖЕНЕРИИ И ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ УПРАВЛЕНИЯ</a></h4>
