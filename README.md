@@ -18,7 +18,7 @@ Quick access:
 * English - [Английский язык](English)
 * Math Statistics - [Математическая статистика](Math%20Statistics)
 * History of science and technology - [История науки и техники](History%20of%20science%20and%20technology)
-* Information Systems Design - [Проектирование информационных систем](Information%20Systems%20Design)
+* **Information Systems Design - [Проектирование информационных систем](Information%20Systems%20Design)**
 * Numerical Methods - [Численные Методы](Numerical%20Methods)
 * Object-Oriented Programming - [Объектно-ориентированное программирование](Object-Oriented%20Programming)
 * Occupational Safety Basics - [Основы безопасности труда](Occupational%20Safety%20Basics)
