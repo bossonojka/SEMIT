@@ -12,7 +12,7 @@ Quick access:
 * Cross-platform programming - [Кроссплатформенное программирование](Cross-platform%20programming)
 * **Data Security Basics - [Основы Безопасности Данных](Data%20Security%20Basics)**
 * Data Structures - [Структуры данных](Data%20Structures)
-* Databases - [Базы данных](Databases)
+* **Databases - [Базы данных](Databases)**
 * Discrete Math - [Дискретная математика](Discrete%20Math)
 * Economy - [Экономика](Economy)
 * English - [Английский язык](English)
@@ -27,4 +27,4 @@ Quick access:
 * **Technology Stack .Net - [Стек технологий .Net](Technology%20Stack%20.Net)**
 * Web Technologies Basics - [Основы веб-технологий](Web%20Technologies%20Basics)
 * Software Testing - [Тестирование программного обеспечения](Software%20Testing)
-* Сomplex Systems - [Сложные системы](Сomplex%20Systems)
+* **Сomplex Systems - [Сложные системы](Сomplex%20Systems)**
