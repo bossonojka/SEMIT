@@ -12,7 +12,7 @@ Quick access:
 * Cross-platform programming - [Кроссплатформенное программирование](Cross-platform%20programming)
 * **Data Security Basics - [Основы Безопасности Данных](Data%20Security%20Basics)**
 * Data Structures - [Структуры данных](Data%20Structures)
-* **Databases - [Базы данных](Databases)**
+* Databases - [Базы данных](Databases)
 * Discrete Math - [Дискретная математика](Discrete%20Math)
 * Economy - [Экономика](Economy)
 * English - [Английский язык](English)
