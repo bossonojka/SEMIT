@@ -28,5 +28,3 @@ Quick access:
 * Web Technologies Basics - [Основы веб-технологий](Web%20Technologies%20Basics)
 * Software Testing - [Тестирование программного обеспечения](Software%20Testing)
 * Сomplex Systems - [Сложные системы](Сomplex%20Systems)
-
-<h4 align="center"><a href="https://piitu-asu.kh.ua">КАФЕДРА ПРОГРАММНОЙ ИНЖЕНЕРИИ И ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ УПРАВЛЕНИЯ</a></h4>
