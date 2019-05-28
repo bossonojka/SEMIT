@@ -30,4 +30,4 @@ Quick access:
 * Software Testing - [Тестирование программного обеспечения](Software%20Testing)
 * **Сomplex Systems - [Сложные системы](Сomplex%20Systems)**
 
-<a href="https://t.me/semits"><img src="https://patrolavia.github.io/telegram-badge/chat.png" alt="SEMIT logo"/></a>
+<p align="center"><a href="https://t.me/semits"><img src="https://patrolavia.github.io/telegram-badge/chat.png" alt="SEMIT logo"/></a><p>
