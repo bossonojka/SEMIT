@@ -1,5 +1,5 @@
 # SOFTWARE ENGINEERING AND MANAGEMENT INFORMATION TECHNOLOGIES
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bossonojka/SEMIT.svg?style=for-the-badge"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bossonojka/SEMIT.svg?style=for-the-badge">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bossonojka/SEMIT.svg?style=for-the-badge&color=red"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bossonojka/SEMIT.svg?style=for-the-badge"><a href="https://t.me/semits"><img alt="Telegram chat" src="https://img.shields.io/badge/CHAT-TELEGRAM-0088cc.svg?style=for-the-badge"></a>
 
 GitHub repository for students studying on department of [Software Engineering and Management Information Technologies](https://piitu-asu.kh.ua).
 
@@ -29,5 +29,3 @@ Quick access:
 * Web Technologies Basics - [Основы веб-технологий](Web%20Technologies%20Basics)
 * Software Testing - [Тестирование программного обеспечения](Software%20Testing)
 * **Сomplex Systems - [Сложные системы](Сomplex%20Systems)**
-
-<p align="center"><a href="https://t.me/semits"><img src="https://patrolavia.github.io/telegram-badge/chat.png" alt="SEMIT logo"/></a><p>
