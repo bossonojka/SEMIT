@@ -14,6 +14,7 @@ Quick access:
 * Data Structures - [Структуры данных](Data%20Structures)
 * Databases - [Базы данных](Databases)
 * Discrete Math - [Дискретная математика](Discrete%20Math)
+* **Ecology - [Экология](Ecology)**
 * Economy - [Экономика](Economy)
 * English - [Английский язык](English)
 * Math Statistics - [Математическая статистика](Math%20Statistics)
