@@ -1,5 +1,5 @@
 # SOFTWARE ENGINEERING AND MANAGEMENT INFORMATION TECHNOLOGIES
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bossonojka/SEMIT.svg?style=for-the-badge&color=red"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bossonojka/SEMIT.svg?style=for-the-badge"><a href="https://t.me/semits"><img alt="Telegram chat" src="https://img.shields.io/badge/CHAT-TELEGRAM-0088cc.svg?style=for-the-badge"></a><a href="https://www.liqpay.ua/ru/checkout/privat24/semit"><img alt="Donate via LiqPay" src="https://img.shields.io/badge/DONATE-LIQPAY-yellow.svg?style=for-the-badge"></a>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bossonojka/SEMIT.svg?style=for-the-badge&color=red"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bossonojka/SEMIT.svg?style=for-the-badge"><a href="https://t.me/semits"><img alt="Telegram chat" src="https://img.shields.io/badge/CHAT-TELEGRAM-0088cc.svg?style=for-the-badge"></a><a href="https://www.liqpay.ua/ru/checkout/privat24/semits"><img alt="Donate via LiqPay" src="https://img.shields.io/badge/DONATE-LIQPAY-yellow.svg?style=for-the-badge"></a>
 
 GitHub repository for students studying on department of [Software Engineering and Management Information Technologies](https://piitu-asu.kh.ua).
 
