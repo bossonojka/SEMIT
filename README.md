@@ -29,6 +29,7 @@ Quick access:
 * Operations Research - [Исследование операций](Operations%20Research)
 * **Programming Web Applications - [Программирование веб-приложений](Programming%20Web%20Applications)**
 * **Technology Stack .Net - [Стек технологий .Net](Technology%20Stack%20.Net)**
+* Ukrainian - [Украинский язык](Ukrainian)
 * Web Technologies Basics - [Основы веб-технологий](Web%20Technologies%20Basics)
 * Software Testing - [Тестирование программного обеспечения](Software%20Testing)
 * **Сomplex Systems - [Сложные системы](Сomplex%20Systems)**
