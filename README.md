@@ -17,6 +17,8 @@ Quick access:
 * **Ecology - [Экология](Ecology)**
 * Economy - [Экономика](Economy)
 * English - [Английский язык](English)
+* History of Ukraine - [История Украины](History%20of%20Ukraine)
+* History of Ukrainian Culture - [История украинской культуры](History%20of%20Ukrainian%20Culture)
 * Math Statistics - [Математическая статистика](Math%20Statistics)
 * History of science and technology - [История науки и техники](History%20of%20science%20and%20technology)
 * **Information Systems Design - [Проектирование информационных систем](Information%20Systems%20Design)**
