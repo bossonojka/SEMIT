@@ -7,11 +7,11 @@ GitHub repository for students studying on department of [Software Engineering a
 
 Quick access:
 * Algorithmization and programming - [Алгоритмизация и программирование](Algorithmization%20and%20programming)
+* Algorithms and data structures - [Алгоритмы и структуры данных](Algorithms%20and%20data%20structures)
 * Computer Architecture - [Компьютерная архитектура](Computer%20Architecture)
 * Computer Networks - [Компьютерные сети](Computer%20Networks)
 * Cross-platform programming - [Кроссплатформенное программирование](Cross-platform%20programming)
 * **Data Security Basics - [Основы Безопасности Данных](Data%20Security%20Basics)**
-* Data Structures - [Структуры данных](Data%20Structures)
 * Databases - [Базы данных](Databases)
 * Discrete Math - [Дискретная математика](Discrete%20Math)
 * **Ecology - [Экология](Ecology)**
