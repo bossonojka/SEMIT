@@ -11,26 +11,26 @@ Quick access:
 * Computer Architecture - [Компьютерная архитектура](Computer%20Architecture)
 * Computer Networks - [Компьютерные сети](Computer%20Networks)
 * Cross-platform programming - [Кроссплатформенное программирование](Cross-platform%20programming)
-* **Data Security Basics - [Основы Безопасности Данных](Data%20Security%20Basics)**
+* Data Security Basics - [Основы Безопасности Данных](Data%20Security%20Basics)
 * Databases - [Базы данных](Databases)
 * Discrete Math - [Дискретная математика](Discrete%20Math)
-* **Ecology - [Экология](Ecology)**
+* Ecology - [Экология](Ecology)
 * Economy - [Экономика](Economy)
 * English - [Английский язык](English)
 * History of Ukraine - [История Украины](History%20of%20Ukraine)
 * History of Ukrainian Culture - [История украинской культуры](History%20of%20Ukrainian%20Culture)
 * Math Statistics - [Математическая статистика](Math%20Statistics)
 * History of science and technology - [История науки и техники](History%20of%20science%20and%20technology)
-* **Information Systems Design - [Проектирование информационных систем](Information%20Systems%20Design)**
+* Information Systems Design - [Проектирование информационных систем](Information%20Systems%20Design)
 * Linear Algebra - [Линейная алгебра](Linear%20Algebra)
 * Numerical Methods - [Численные Методы](Numerical%20Methods)
 * Object-Oriented Programming - [Объектно-ориентированное программирование](Object-Oriented%20Programming)
-* **Occupational Safety Basics - [Основы безопасности труда](Occupational%20Safety%20Basics)**
+* Occupational Safety Basics - [Основы безопасности труда](Occupational%20Safety%20Basics)
 * Operating Systems - [Операционные системы](Operating%20Systems)
 * Operations Research - [Исследование операций](Operations%20Research)
-* **Programming Web Applications - [Программирование веб-приложений](Programming%20Web%20Applications)**
-* **Technology Stack .Net - [Стек технологий .Net](Technology%20Stack%20.Net)**
+* Programming Web Applications - [Программирование веб-приложений](Programming%20Web%20Applications)
+* Technology Stack .Net - [Стек технологий .Net](Technology%20Stack%20.Net)
 * Ukrainian - [Украинский язык](Ukrainian)
 * Web Technologies Basics - [Основы веб-технологий](Web%20Technologies%20Basics)
 * Software Testing - [Тестирование программного обеспечения](Software%20Testing)
-* **Сomplex Systems - [Сложные системы](Сomplex%20Systems)**
+* Сomplex Systems - [Сложные системы](Сomplex%20Systems)
