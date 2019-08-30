@@ -8,18 +8,22 @@ GitHub repository for students studying on department of [Software Engineering a
 Quick access:
 * Algorithmization and programming - [Алгоритмизация и программирование](Algorithmization%20and%20programming)
 * Algorithms and data structures - [Алгоритмы и структуры данных](Algorithms%20and%20data%20structures)
+* **Complex Systems Modeling - [Моделирование сложных систем](Complex%20Systems%20Modeling)**
 * Computer Architecture - [Компьютерная архитектура](Computer%20Architecture)
 * Computer Networks - [Компьютерные сети](Computer%20Networks)
 * Cross-platform programming - [Кроссплатформенное программирование](Cross-platform%20programming)
 * Data Security Basics - [Основы Безопасности Данных](Data%20Security%20Basics)
 * Databases - [Базы данных](Databases)
+* **Decision Theory - [Теория принятия решений](Decision%20Theory)**
 * Discrete Math - [Дискретная математика](Discrete%20Math)
 * Ecology - [Экология](Ecology)
 * Economy - [Экономика](Economy)
+* **Empirical Information Processing Methods - [Методы обработки имперической информации](Empirical%20Information%20Processing%20Methods)**
 * English - [Английский язык](English)
 * History of Ukraine - [История Украины](History%20of%20Ukraine)
 * History of Ukrainian Culture - [История украинской культуры](History%20of%20Ukrainian%20Culture)
 * Math Statistics - [Математическая статистика](Math%20Statistics)
+* **Modern Management Theory - [Современная теория управления](Modern%20Management%20Theory)**
 * History of science and technology - [История науки и техники](History%20of%20science%20and%20technology)
 * Information Systems Design - [Проектирование информационных систем](Information%20Systems%20Design)
 * Linear Algebra - [Линейная алгебра](Linear%20Algebra)
@@ -29,6 +33,7 @@ Quick access:
 * Operating Systems - [Операционные системы](Operating%20Systems)
 * Operations Research - [Исследование операций](Operations%20Research)
 * Programming Web Applications - [Программирование веб-приложений](Programming%20Web%20Applications)
+* **Soft Computing Models and Methods - [Модели и методы мягких вычислений](Soft%20Computing%20Models%20and%20Methods)**
 * Technology Stack .Net - [Стек технологий .Net](Technology%20Stack%20.Net)
 * Ukrainian - [Украинский язык](Ukrainian)
 * Web Technologies Basics - [Основы веб-технологий](Web%20Technologies%20Basics)
