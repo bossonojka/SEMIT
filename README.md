@@ -26,6 +26,7 @@ Quick access:
 * **Modern Management Theory - [Современная теория управления](Modern%20Management%20Theory)**
 * History of science and technology - [История науки и техники](History%20of%20science%20and%20technology)
 * Information Systems Design - [Проектирование информационных систем](Information%20Systems%20Design)
+* **Information Technology Risk Management - [Информационные технологии управления в условиях риска](Information%20Technology%20Risk%20Management)**
 * Linear Algebra - [Линейная алгебра](Linear%20Algebra)
 * Numerical Methods - [Численные Методы](Numerical%20Methods)
 * Object-Oriented Programming - [Объектно-ориентированное программирование](Object-Oriented%20Programming)
