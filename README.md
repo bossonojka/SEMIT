@@ -18,7 +18,7 @@ Quick access:
 * Discrete Math - [Дискретная математика](Discrete%20Math)
 * Ecology - [Экология](Ecology)
 * Economy - [Экономика](Economy)
-* **Empirical Information Processing Methods - [Методы обработки эмперической информации](Empirical%20Information%20Processing%20Methods)**
+* **Empirical Information Processing Methods - [Методы обработки эмпирической информации](Empirical%20Information%20Processing%20Methods)**
 * English - [Английский язык](English)
 * History of Ukraine - [История Украины](History%20of%20Ukraine)
 * History of Ukrainian Culture - [История украинской культуры](History%20of%20Ukrainian%20Culture)
