@@ -34,7 +34,7 @@ Quick access:
 * Occupational Safety Basics - [Основы безопасности труда](Occupational%20Safety%20Basics)
 * Operating Systems - [Операционные системы](Operating%20Systems)
 * Operations Research - [Исследование операций](Operations%20Research)
-* Programming Web Applications - [Программирование веб-приложений](Programming%20Web%20Applications)
+* Programming Web Applications Java EE - [Программирование веб-приложений Java EE](Programming%20Web%20Applications%20Java%20EE)
 * Soft Computing Models and Methods - [Модели и методы мягких вычислений](Soft%20Computing%20Models%20and%20Methods)
 * Technology Stack .Net - [Стек технологий .Net](Technology%20Stack%20.Net)
 * Ukrainian - [Украинский язык](Ukrainian)
